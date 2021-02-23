@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("8");
 		System.out.println("7");
 		
+
 		System.out.println("G");
 		System.out.println("G");
 		System.out.println("G");
@@ -15,6 +16,6 @@ public class Main {
 		System.out.println("Z");
 		System.out.println("Z");
 		System.out.println("Z");
-		
+
 	}
 }
