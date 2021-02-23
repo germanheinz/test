@@ -4,13 +4,13 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("merge1");
-		System.out.println("merge2");
-		System.out.println("merge3");
+		System.out.println("x");
+		System.out.println("y");
+		System.out.println("z");
 		
-		System.out.println("merge4");
-		System.out.println("merge5");
-		System.out.println("merge6");
+		System.out.println("4");
+		System.out.println("5");
+		System.out.println("6");
 
 	}
 }
