@@ -13,6 +13,12 @@ public class Main {
 		System.out.println("G");
 		System.out.println("G");
 		
+	
+		
+		System.out.println("Z");
+		System.out.println("Z");
+		System.out.println("Z");
+		
 		System.out.println("local1");
 		System.out.println("local1");
 		System.out.println("local1");
@@ -29,6 +35,13 @@ public class Main {
 		System.out.println("local4");
 		System.out.println("local4");
 		
+		System.out.println("A");
+		System.out.println("B");
+		System.out.println("C");
+		
+		System.out.println("D");
+		System.out.println("E");
+		System.out.println("F");
 
 	}
 }
