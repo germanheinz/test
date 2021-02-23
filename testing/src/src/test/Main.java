@@ -8,9 +8,9 @@ public class Main {
 		System.out.println("8");
 		System.out.println("7");
 		
-		System.out.println("Z");
-		System.out.println("Z");
-		System.out.println("Z");
+		System.out.println("l");
+		System.out.println("l");
+		System.out.println("l");
 		
 	}
 }
