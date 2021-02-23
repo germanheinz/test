@@ -9,35 +9,14 @@ public class Main {
 		System.out.println("7");
 		
 
+		System.out.println("F");
 		System.out.println("G");
-		System.out.println("G");
-		System.out.println("G");
-		
-	
-		
-		System.out.println("Z");
-		System.out.println("Z");
-		System.out.println("Z");
-		
-		System.out.println("local1");
-		System.out.println("local1");
-		System.out.println("local1");
-		
-		System.out.println("local2");
-		System.out.println("local2");
-		System.out.println("local2");
+		System.out.println("H");
 
-		System.out.println("local3");
-		System.out.println("local3");
-		System.out.println("local3");
-		
-		System.out.println("local4");
-		System.out.println("local4");
-		System.out.println("local4");
-		
-		System.out.println("A");
-		System.out.println("B");
-		System.out.println("C");
+		System.out.println("I");
+		System.out.println("J");
+		System.out.println("K");
+
 		
 		System.out.println("D");
 		System.out.println("E");
