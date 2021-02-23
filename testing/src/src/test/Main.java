@@ -42,6 +42,10 @@ public class Main {
 		System.out.println("D");
 		System.out.println("E");
 		System.out.println("F");
+		
+		System.out.println("z1");
+		System.out.println("z2");
+		System.out.println("z3");
 
 	}
 }
