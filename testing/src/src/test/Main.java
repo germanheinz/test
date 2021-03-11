@@ -11,7 +11,7 @@ public class Main {
 		System.out.println("c");
 		System.out.println("d");
 
-		String variable = "Add a value here!";
+		String variable = "Add a value here!!";
 		System.out.println("f");
 		
 		System.out.println("f");
