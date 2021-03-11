@@ -17,7 +17,6 @@ public class Main {
 		System.out.println("i");
 		
 		
-		
 		String myChangeGithub = "mum";
 		System.out.println("mumumumumumumumu");
 		String myChangeGithub2 = "mum";
