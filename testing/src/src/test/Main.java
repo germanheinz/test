@@ -22,6 +22,12 @@ public class Main {
 
 		String myChangeGithub3 = "myChangeGithub3";
 		
+		String myChangeLocal = "myChangeLocal1";
+
+		String myChangeLocal2 = "myChangeLocal2";
+
+		String myChangeLocal3 = "myChangeLocal3";
+		
 		System.out.println(myChangeGithub);
 	}
 }
