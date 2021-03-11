@@ -16,7 +16,7 @@ public class Main {
 		System.out.println("h");
 		System.out.println("i");
 		
-		String myChangeGithub = "myChangeGithub?";
+		String myChangeGithub = "myChangeGithub1";
 
 		String myChangeGithub2 = "myChangeGithub2";
 
