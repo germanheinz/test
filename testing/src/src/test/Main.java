@@ -16,7 +16,7 @@ public class Main {
 		System.out.println("h");
 		System.out.println("i");
 		
-		String text = "Ejemplo de txt";
+		String text = "Ejemplo de txt #2";
 		System.out.println(text);
 	}
 }
