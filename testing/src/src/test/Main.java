@@ -16,14 +16,12 @@ public class Main {
 		System.out.println("h");
 		System.out.println("i");
 		
-		String text = "Ejemplo de txt #3 desde Local";
+		String myChangeGithub = "myChangeGithub1";
 
-		String text2Local = "Ejemplo de txt #4 desde Local";
+		String myChangeGithub2 = "myChangeGithub2";
 
-		String text3Local = "Ejemplo de txt #4 desde Local";
+		String myChangeGithub3 = "myChangeGithub3";
 		
-		String textGit = "Ejemplo de txt #4 desde Github";
-		
-		System.out.println(text);
+		System.out.println(myChangeGithub);
 	}
 }
