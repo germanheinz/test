@@ -23,8 +23,13 @@ public class Main {
 		String myImportantVariable = "efgh";
 		String password2 = "5678";
 		
-		String importantVariable = "abcd";
-		String password = "1234";
+		String importantUser = "ger";
+		String password = "hei";
+		System.out.println("importantUser" + importantUser);
+		System.out.println("password" + password);
+		
+		System.out.println("ESTE ES MI MENSAJE DESDE LOCAL: myImportantVariable " + myChangeGithub);
+		System.out.println("ESTE ES MI MENSAJE DESDE LOCAL: password2 " + password2);
 
 	}
 }
