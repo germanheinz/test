@@ -16,19 +16,19 @@ public class Main {
 		System.out.println("h");
 		System.out.println("i");
 		
-		String myChangeGithub = "myChangeGithub?";
+		String myChangeGithub = "myChangeGithubLALA";
 
-		String myChangeGithub2 = "myChangeGithub2";
+		String myChangeGithub2 = "myChangeGithubLALA";
 
-		String myChangeGithub3 = "myChangeGithub3";
+		String myChangeGithub3 = "myChangeGithubLALA";
 		
-		String myChangeLocal = "myChangeLocal?";
+		String myChangeLocal = "myChangeLocalLALA";
 
-		String myChangeLocal2 = "myChangeLocal?";
+		String myChangeLocal2 = "myChangeLocalLALA";
 
-		String myChangeLocal3 = "myChangeLocal?";
+		String myChangeLocal3 = "myChangeLocalLALA";
 
-		String myChangeLocal4 = "myChangeLocal?";
+		String myChangeLocal4 = "myChangeLocalLALA";
 		
 		String myChangeLocal5 = " LI LI LI";
 
