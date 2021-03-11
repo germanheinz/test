@@ -10,11 +10,16 @@ public class Main {
 		System.out.println("b");
 		System.out.println("c");
 		System.out.println("d");
-		System.out.println("e");
+
+		String variable = "Add a value here!";
+		System.out.println("f");
+		
 		System.out.println("f");
 		System.out.println("g");
 		System.out.println("h");
-		System.out.println("i");
+		
+		String newGithub = "test";
+		System.out.println("newGithub" + newGithub);
 		
 		
 		String myChangeGithub = "mum";
@@ -30,6 +35,12 @@ public class Main {
 		
 		System.out.println("ESTE ES MI MENSAJE DESDE LOCAL: myImportantVariable " + myChangeGithub);
 		System.out.println("ESTE ES MI MENSAJE DESDE LOCAL: password2 " + password2);
+		
+		String newImportantValues = "test";
+		System.out.println("LOCAL AQUI" + newImportantValues);
+		
+		System.out.println("GITHUB AQUII" + importantUser);
+		System.out.println("GITHUB AQUII" + importantUser);
 
 	}
 }
