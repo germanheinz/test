@@ -16,32 +16,49 @@ public class Main {
 		System.out.println("h");
 		System.out.println("i");
 		
-		String myChangeGithub = "myChangeGithubLELE";
-
-		String myChangeGithub2 = "myChangeGithubLELE";
-
-		String myChangeGithub3 = "myChangeGithubLELE";
 		
-		String myChangeLocal = "myChangeLocalLELE";
-
-		String myChangeLocal2 = "myChangeLocalLELE";
-
-		String myChangeLocal3 = "LELE";
-
-		String myChangeLocal4 = "LELE";
 		
-		String myChangeLocal5 = " LI LI LI";
+		String myChangeGithub = "mum";
+		System.out.println("mumumumumumumumu");
+		String myChangeGithub2 = "mum";
+		System.out.println("mumumumumumumumu");
+		String myChangeGithub3 = "mum";
+		String myChangeGithu = "LULU";
+		System.out.println("LULU");
+		String myChangeGithu2 = "LULU";
+		System.out.println("LULU");
+		String myChangeGithu3 = "LULU";
+		
+		String myChangeLocal = "mum";
+		String myChangeLoca = "LULU";
 
-		System.out.println("LE LE LE");
+		String myChangeLocal2 = "mum";
+		String myChangeLoca2 = "LULU";
+
+		String myChangeLocal3 = "mum";
+		String myChangeLoca3 = "LULU";
+
+		String myChangeLocal4 = "mum";
+		String myChangeLoca4 = "LULU";
 		
-		String myChangeLocal6 = " LI LI LI";
+		String myChangeLocal5 = " mum";
+		String myChangeLoca5 = "LULU";
+
+		System.out.println("mum");
+		System.out.println("LULU");
 		
-		System.out.println("lalala");
+		String myChangeLocal6 = " mum";
+		String myChangeLoca6 = "LULU";
 		
-		System.out.println("LE LE LE");
+		System.out.println("mum");
+		System.out.println("LULU");
+		
+		System.out.println("mum");
+		System.out.println("LULU");
 		
 		System.out.println(myChangeGithub);
 		
-		String d = "new";
+		String de = "new";
+		String d = "LULU";
 	}
 }
