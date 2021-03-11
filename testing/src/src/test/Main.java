@@ -10,6 +10,12 @@ public class Main {
 		System.out.println("como estas?");
 		
 		System.out.println("bien vos?");
+		
+		System.out.println("#1");
+		
+		System.out.println("#2");
+		
+		System.out.println("#3");
 
 	}
 }
