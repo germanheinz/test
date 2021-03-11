@@ -30,6 +30,10 @@ public class Main {
 
 		String myChangeLocal4 = "myChangeLocal?";
 		
+		String myChangeLocal5 = " LI LI LI";
+
+		String myChangeLocal6 = " LI LI LI";
+		
 		System.out.println("lalala");
 		
 		System.out.println(myChangeGithub);
