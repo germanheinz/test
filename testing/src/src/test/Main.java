@@ -15,5 +15,14 @@ public class Main {
 		System.out.println("g");
 		System.out.println("h");
 		System.out.println("i");
+		
+		System.out.println("nuevo");
+		System.out.println("nuevo");
+		
+		System.out.println("nuevo");
+		System.out.println("nuevo");
+		
+		System.out.println("nuevo");
+		System.out.println("nuevo");
 	}
 }
