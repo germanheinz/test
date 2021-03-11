@@ -17,6 +17,12 @@ public class Main {
 		System.out.println("i");
 		
 		String text = "Ejemplo de txt #3 desde Local";
+
+		String text2Local = "Ejemplo de txt #4 desde Local";
+
+		String text3Local = "Ejemplo de txt #4 desde Local";
+		
+		String textGit = "Ejemplo de txt #4 desde Github";
 		System.out.println(text);
 	}
 }
