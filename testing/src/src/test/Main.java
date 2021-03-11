@@ -23,8 +23,8 @@ public class Main {
 		String myImportantVariable = "efgh";
 		String password2 = "5678";
 		
-		
 		String importantVariable = "abcd";
 		String password = "1234";
+
 	}
 }
