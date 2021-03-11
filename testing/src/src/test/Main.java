@@ -14,7 +14,9 @@ public class Main {
 		System.out.println("f");
 		System.out.println("g");
 		System.out.println("h");
-		System.out.println("i");
+		
+		String newGithub = "test";
+		System.out.println("newGithub" + newGithub);
 		
 		
 		String myChangeGithub = "mum";
