@@ -19,5 +19,8 @@ public class Main {
 		
 		String myChangeGithub = "mum";
 		System.out.println("myChangeGithub");
+		
+		String importantVariable = "abcd";
+		String password = "1234"
 	}
 }
