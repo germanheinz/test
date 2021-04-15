@@ -29,6 +29,8 @@ public class Main {
 
 		int c = 1;
 		String tester3  = "lorem lorem lorem";
+		
+		String tester4 = "null";
 
 
 		int d = 1;
