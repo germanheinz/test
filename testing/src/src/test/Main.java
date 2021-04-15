@@ -12,8 +12,14 @@ public class Main {
 		System.out.println("d");
 		System.out.println("e");
 		System.out.println("f");
-		System.out.println("g");
-		System.out.println("h");
+	 
+		int a = 1;
+
+		int b = 1;
+
+		int c = 1;
+
+		int d = 1;
 		System.out.println("i");
 	}
 }
