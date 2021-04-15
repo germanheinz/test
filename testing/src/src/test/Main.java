@@ -10,6 +10,12 @@ public class Main {
 		System.out.println("b");
 		System.out.println("c");
 		System.out.println("d");
+		
+		String test  = "lorem lorem lorem";
+		String test2 = "lorem lorem lorem";
+		String test3 = "lorem lorem lorem";
+		String test4 = "lorem lorem lorem";
+		
 		System.out.println("e");
 		System.out.println("f");
 		System.out.println("g");
