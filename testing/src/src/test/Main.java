@@ -20,11 +20,16 @@ public class Main {
 		System.out.println("f");
 	 
 		int a = 1;
-
+		int ab = 9;
+		
 		int b = 1;
+		int be = 9;
 
+		
+		int cv = 9;
 		int c = 1;
-
+		
+		int di = 9;
 		int d = 1;
 		System.out.println("i");
 	}
