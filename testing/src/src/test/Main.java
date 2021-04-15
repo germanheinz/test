@@ -29,6 +29,8 @@ public class Main {
 		int cv = 9;
 		int c = 1;
 		
+		String teeeee = "hollaaaa";
+		
 		int di = 9;
 		int d = 1;
 		System.out.println("i");
