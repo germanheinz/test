@@ -20,10 +20,16 @@ public class Main {
 		System.out.println("f");
 	 
 		int a = 1;
+		String tester = "lorem lorem lorem";
+
 
 		int b = 1;
+		String tester2  = "lorem lorem lorem";
+
 
 		int c = 1;
+		String tester3  = "lorem lorem lorem";
+
 
 		int d = 1;
 		System.out.println("i");
