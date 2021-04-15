@@ -33,6 +33,7 @@ public class Main {
 		
 		int di = 9;
 		int d = 1;
+		String la = "laaaaaaaaaaaaaaaaaa";
 		System.out.println("i");
 	}
 }
